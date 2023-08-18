@@ -262,7 +262,7 @@ Issue: https://github.com/cosmos/iavl/issues/548
 ### Research
 
 * Stateless clients
-    * research how stateless clients could evolve in cosmos
+    * research how stateless clients could evolve in the cosmos
 
 
 
